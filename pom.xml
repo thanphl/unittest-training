@@ -86,6 +86,9 @@
                                     </limits>
                                 </rule>
                             </rules>
+                            <excludes>
+                                <exclude>**/DemoApplication.class</exclude>
+                            </excludes>
                         </configuration>
                     </execution>
                     <execution>
